@@ -1,0 +1,26 @@
+[
+  {
+    "suburb": "Chatswood",
+    "state": "NSW",
+    "median_sale_price": 1850000,
+    "median_rent_weekly": 950,
+    "vacancy_rate": 1.8,
+    "property_type": "apartment"
+  },
+  {
+    "suburb": "Parramatta",
+    "state": "NSW",
+    "median_sale_price": 980000,
+    "median_rent_weekly": 720,
+    "vacancy_rate": 2.4,
+    "property_type": "apartment"
+  },
+  {
+    "suburb": "Burwood",
+    "state": "NSW",
+    "median_sale_price": 1450000,
+    "median_rent_weekly": 820,
+    "vacancy_rate": 1.9,
+    "property_type": "apartment"
+  }
+]

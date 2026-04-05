@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ABS_C16_T13_SA",
+    "name": "Total Personal Income (weekly)"
+  },
+  {
+    "id": "ABS_C16_T21_SA",
+    "name": "Total Household Income (Weekly)"
+  },
+  {
+    "id": "ABS_C16_T19_SA",
+    "name": "Total Family Income (weekly)"
+  },
+  {
+    "id": "ABS_C16_T23_SA",
+    "name": "Household Composition"
+  },
+  {
+    "id": "ABS_C16_T22_SA",
+    "name": "Number of Motor Vehicles by Dwelling"
+  },
+  {
+    "id": "ABS_C16_G44_SA",
+    "name": "Labour force status"
+  },
+  {
+    "id": "ABS_C16_G45_SA",
+    "name": "Labour force participation"
+  },
+  {
+    "id": "ABS_C16_T05_SA",
+    "name": "Ancestry by Birthplace"
+  }
+]
