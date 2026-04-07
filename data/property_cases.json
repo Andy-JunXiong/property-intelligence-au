@@ -1,0 +1,81 @@
+{
+  "dataset_name": "property_cases",
+  "records": [
+    {
+      "case_id": "beecroft-90a-chapman",
+      "status": "draft",
+      "title": "Beecroft Family Home Review",
+      "address": "90A CHAPMAN AVE, BEECROFT NSW 2119",
+      "suburb": "Beecroft",
+      "postcode": "2119",
+      "sold_price": 6550000,
+      "bedrooms": null,
+      "bathrooms": null,
+      "parking_spaces": null,
+      "property_type": "house",
+      "land_size_sqm": null,
+      "building_size_sqm": null,
+      "orientation": null,
+      "layout_summary": null,
+      "floor_plan_notes": [
+        "Floor plan and room measurements to be added.",
+        "Confirm living and dining relationship once the plan is available.",
+        "Check whether bedroom separation supports family use."
+      ],
+      "inspection_notes": [
+        "Use this case as the first premium analysis workflow.",
+        "Add subjective notes after inspection: light, noise, privacy, slope, and street feel."
+      ],
+      "manual_inputs_needed": [
+        "bedrooms",
+        "bathrooms",
+        "parking_spaces",
+        "orientation",
+        "floor_plan",
+        "room_sizes",
+        "living_layout",
+        "light_quality",
+        "noise_level",
+        "slope_feel"
+      ],
+      "accessibility": {
+        "nearest_train_station": {
+          "name": null,
+          "travel_time_minutes": null,
+          "walking_distance_km": null,
+          "walk_flatness": null
+        },
+        "nearest_bus_stop": {
+          "name": null,
+          "travel_time_minutes": null
+        },
+        "nearest_shopping_centre": {
+          "name": null,
+          "travel_time_minutes": null
+        }
+      },
+      "schools": [],
+      "ai_tasks": [
+        "Summarise floor plan strengths and weaknesses.",
+        "Assess family liveability once room layout is added.",
+        "Compare with nearby recent Beecroft house sales."
+      ],
+      "decision_summary": {
+        "overall_view": "Needs more manual detail before a decision score is meaningful.",
+        "strengths": [
+          "Prime Beecroft address selected for premium analysis workflow.",
+          "Recent high-value sale indicates strong top-end market context."
+        ],
+        "risks": [
+          "Core property features are still missing.",
+          "Transport, school, and walkability layer has not been enriched yet."
+        ],
+        "next_actions": [
+          "Add floor plan and room measurements.",
+          "Add inspection notes.",
+          "Enrich station, shopping, and school proximity."
+        ]
+      }
+    }
+  ]
+}

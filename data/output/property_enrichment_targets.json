@@ -1,0 +1,5478 @@
+{
+  "dataset_name": "property_enrichment_targets",
+  "record_count": 608,
+  "records": [
+    {
+      "full_address": "33 BORONIA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 4250000,
+      "sale_date": "7 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "629790"
+    },
+    {
+      "full_address": "47 LAMORNA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 3700000,
+      "sale_date": "9 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "652163"
+    },
+    {
+      "full_address": "3 OAKLANDS AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 3553000,
+      "sale_date": "9 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "660316"
+    },
+    {
+      "full_address": "88 MURRAY FARM RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 3500000,
+      "sale_date": "9 December 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "657825"
+    },
+    {
+      "full_address": "127 COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 3490000,
+      "sale_date": "9 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "635849"
+    },
+    {
+      "full_address": "3A GLENELG PL, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 3090000,
+      "sale_date": "8 May 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3481029"
+    },
+    {
+      "full_address": "185 COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 3050000,
+      "sale_date": "7 February 2026",
+      "property_type_hint": "house",
+      "raw_source_id": "635792"
+    },
+    {
+      "full_address": "1 BINGARA RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 3000000,
+      "sale_date": "9 April 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "629097"
+    },
+    {
+      "full_address": "19 HANNAH ST, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2900000,
+      "sale_date": "7 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3104012"
+    },
+    {
+      "full_address": "2 NORWOOD AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2815000,
+      "sale_date": "6 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "660066"
+    },
+    {
+      "full_address": "16 KEDRON AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2810000,
+      "sale_date": "9 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "650532"
+    },
+    {
+      "full_address": "36 CARDINAL AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2800000,
+      "sale_date": "7 December 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3803548"
+    },
+    {
+      "full_address": "64 HANNAH ST, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2750000,
+      "sale_date": "9 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "646021"
+    },
+    {
+      "full_address": "100A SUTHERLAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2750000,
+      "sale_date": "8 January 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "671813"
+    },
+    {
+      "full_address": "51A ALBERT RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2650000,
+      "sale_date": "6 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "624274"
+    },
+    {
+      "full_address": "10 SEALE CL, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2552000,
+      "sale_date": "7 December 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "669043"
+    },
+    {
+      "full_address": "7 KEDRON AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2530000,
+      "sale_date": "7 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "650520"
+    },
+    {
+      "full_address": "23 LYNDON WAY, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2525000,
+      "sale_date": "6 September 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "654155"
+    },
+    {
+      "full_address": "193 COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2500000,
+      "sale_date": "7 April 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "635787"
+    },
+    {
+      "full_address": "53 LAMORNA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2480000,
+      "sale_date": "9 July 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "652160"
+    },
+    {
+      "full_address": "18 MARWOOD DR, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2475000,
+      "sale_date": "9 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "655820"
+    },
+    {
+      "full_address": "21 CARDINAL AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2470000,
+      "sale_date": "7 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "632989"
+    },
+    {
+      "full_address": "44 ALBERT RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2430000,
+      "sale_date": "7 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "624228"
+    },
+    {
+      "full_address": "6 ALBERT RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2420000,
+      "sale_date": "9 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "624246"
+    },
+    {
+      "full_address": "6 PARK AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2420000,
+      "sale_date": "9 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "663429"
+    },
+    {
+      "full_address": "26 MAHER CL, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2380000,
+      "sale_date": "8 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "664735"
+    },
+    {
+      "full_address": "27 FINLAY AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2360000,
+      "sale_date": "7 December 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "642061"
+    },
+    {
+      "full_address": "7 MAWSON AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2350000,
+      "sale_date": "7 May 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "656027"
+    },
+    {
+      "full_address": "12A MARY ST, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2310000,
+      "sale_date": "7 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "655838"
+    },
+    {
+      "full_address": "30 LAMORNA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2300000,
+      "sale_date": "7 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "652093"
+    },
+    {
+      "full_address": "19 YORK ST, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2257000,
+      "sale_date": "7 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "678107"
+    },
+    {
+      "full_address": "14 JESMOND CRES, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2250000,
+      "sale_date": "8 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3922740"
+    },
+    {
+      "full_address": "74 KARRIL AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2180000,
+      "sale_date": "8 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "650399"
+    },
+    {
+      "full_address": "199 COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2175000,
+      "sale_date": "8 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "635781"
+    },
+    {
+      "full_address": "79 LAMORNA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2125000,
+      "sale_date": "7 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "652147"
+    },
+    {
+      "full_address": "9B SPRING ST, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2110000,
+      "sale_date": "7 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "670795"
+    },
+    {
+      "full_address": "6 OAKLANDS AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2100000,
+      "sale_date": "9 June 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "660312"
+    },
+    {
+      "full_address": "38 SUTHERLAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2100000,
+      "sale_date": "7 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3742626"
+    },
+    {
+      "full_address": "173 MURRAY FARM RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2095000,
+      "sale_date": "9 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "657899"
+    },
+    {
+      "full_address": "87 LAMORNA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 2060000,
+      "sale_date": "9 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "652143"
+    },
+    {
+      "full_address": "6 LYNBRAE AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1970000,
+      "sale_date": "7 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "654048"
+    },
+    {
+      "full_address": "8 TRISTANIA WAY, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1960000,
+      "sale_date": "8 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "673753"
+    },
+    {
+      "full_address": "191 COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1920000,
+      "sale_date": "7 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "635789"
+    },
+    {
+      "full_address": "43B COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1920000,
+      "sale_date": "7 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4530191"
+    },
+    {
+      "full_address": "18 BANGALOW AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1910000,
+      "sale_date": "8 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "626860"
+    },
+    {
+      "full_address": "177D COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1910000,
+      "sale_date": "8 May 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "2823059"
+    },
+    {
+      "full_address": "51A CARDINAL AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1850000,
+      "sale_date": "9 May 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "632972"
+    },
+    {
+      "full_address": "114 HANNAH ST, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1850000,
+      "sale_date": "8 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3927499"
+    },
+    {
+      "full_address": "50A SUTHERLAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1850000,
+      "sale_date": "7 February 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "4383372"
+    },
+    {
+      "full_address": "9 COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1800000,
+      "sale_date": "9 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3927114"
+    },
+    {
+      "full_address": "20 LAMORNA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1750000,
+      "sale_date": "8 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "652088"
+    },
+    {
+      "full_address": "12 RODNEY AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1730000,
+      "sale_date": "9 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "667862"
+    },
+    {
+      "full_address": "14 OAKLANDS AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1710000,
+      "sale_date": "7 November 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "660308"
+    },
+    {
+      "full_address": "28 CARLISLE CRES, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1700000,
+      "sale_date": "8 April 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3881023"
+    },
+    {
+      "full_address": "126 MURRAY FARM RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1680000,
+      "sale_date": "7 December 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "657844"
+    },
+    {
+      "full_address": "85 LAMORNA AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1655000,
+      "sale_date": "9 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "652144"
+    },
+    {
+      "full_address": "26 CARDINAL AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1650000,
+      "sale_date": "8 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "633015"
+    },
+    {
+      "full_address": "35 BAMBARA CRES, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1608000,
+      "sale_date": "7 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "626711"
+    },
+    {
+      "full_address": "18 PENRHYN AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1600000,
+      "sale_date": "9 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3927507"
+    },
+    {
+      "full_address": "27 NORWOOD AVE, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1580000,
+      "sale_date": "8 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "660049"
+    },
+    {
+      "full_address": "63 ORCHARD RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1580000,
+      "sale_date": "7 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "661212"
+    },
+    {
+      "full_address": "187 COPELAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1561000,
+      "sale_date": "9 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "635791"
+    },
+    {
+      "full_address": "48 BAMBARA CRES, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1375000,
+      "sale_date": "9 May 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "626738"
+    },
+    {
+      "full_address": "66 SUTHERLAND RD, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1212000,
+      "sale_date": "7 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "671789"
+    },
+    {
+      "full_address": "WONGALA CRES, BEECROFT NSW 2119",
+      "suburb": "BEECROFT",
+      "postcode": "2119",
+      "sale_price": 1060000,
+      "sale_date": "7 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4472750"
+    },
+    {
+      "full_address": "29 NORMANHURST RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 3081000,
+      "sale_date": "16 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "659650"
+    },
+    {
+      "full_address": "6 BRYAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2900000,
+      "sale_date": "30 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "631445"
+    },
+    {
+      "full_address": "61 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2870000,
+      "sale_date": "18 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "637815"
+    },
+    {
+      "full_address": "3 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2800500,
+      "sale_date": "22 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "646301"
+    },
+    {
+      "full_address": "34 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2800000,
+      "sale_date": "5 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "632632"
+    },
+    {
+      "full_address": "45 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2800000,
+      "sale_date": "29 September 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "657348"
+    },
+    {
+      "full_address": "23 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2780000,
+      "sale_date": "24 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "645694"
+    },
+    {
+      "full_address": "15 LENNOX ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2765000,
+      "sale_date": "8 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "652753"
+    },
+    {
+      "full_address": "19 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2750000,
+      "sale_date": "3 July 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "645698"
+    },
+    {
+      "full_address": "17 EATON AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2730000,
+      "sale_date": "23 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "639737"
+    },
+    {
+      "full_address": "2 TRACEY CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2710000,
+      "sale_date": "1 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "673552"
+    },
+    {
+      "full_address": "60 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2701000,
+      "sale_date": "29 April 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "654874"
+    },
+    {
+      "full_address": "35 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2700000,
+      "sale_date": "7 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "3972533"
+    },
+    {
+      "full_address": "44 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2700000,
+      "sale_date": "4 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "647990"
+    },
+    {
+      "full_address": "8 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2700000,
+      "sale_date": "1 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3620888"
+    },
+    {
+      "full_address": "18 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2670000,
+      "sale_date": "24 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "676898"
+    },
+    {
+      "full_address": "17 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2650000,
+      "sale_date": "20 January 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4235601"
+    },
+    {
+      "full_address": "6 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2650000,
+      "sale_date": "15 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "671339"
+    },
+    {
+      "full_address": "9A CALGA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2620000,
+      "sale_date": "6 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "4293379"
+    },
+    {
+      "full_address": "33 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2610000,
+      "sale_date": "1 February 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "676889"
+    },
+    {
+      "full_address": "49 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2600000,
+      "sale_date": "7 June 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "647921"
+    },
+    {
+      "full_address": "3 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2600000,
+      "sale_date": "19 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "676873"
+    },
+    {
+      "full_address": "18 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2600000,
+      "sale_date": "12 August 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "646333"
+    },
+    {
+      "full_address": "18 EATON AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2570000,
+      "sale_date": "28 February 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "639766"
+    },
+    {
+      "full_address": "20 EATON AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2525000,
+      "sale_date": "20 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "639765"
+    },
+    {
+      "full_address": "5 LENNOX ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2520000,
+      "sale_date": "24 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "652749"
+    },
+    {
+      "full_address": "41 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2515000,
+      "sale_date": "26 November 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "645682"
+    },
+    {
+      "full_address": "37C REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2500000,
+      "sale_date": "3 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3315666"
+    },
+    {
+      "full_address": "14 EATON AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2480000,
+      "sale_date": "1 February 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "639768"
+    },
+    {
+      "full_address": "11 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2465000,
+      "sale_date": "12 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3377860"
+    },
+    {
+      "full_address": "11 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2460000,
+      "sale_date": "15 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "676877"
+    },
+    {
+      "full_address": "34 OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2455000,
+      "sale_date": "10 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "661303"
+    },
+    {
+      "full_address": "62 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2450000,
+      "sale_date": "25 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "654873"
+    },
+    {
+      "full_address": "11A FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2450000,
+      "sale_date": "19 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "643104"
+    },
+    {
+      "full_address": "8A FRITH AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2405000,
+      "sale_date": "29 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3887331"
+    },
+    {
+      "full_address": "26B OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2400000,
+      "sale_date": "5 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3745582"
+    },
+    {
+      "full_address": "41 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2400000,
+      "sale_date": "24 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "676893"
+    },
+    {
+      "full_address": "23A HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2400000,
+      "sale_date": "15 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3961844"
+    },
+    {
+      "full_address": "47 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2400000,
+      "sale_date": "10 February 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "632887"
+    },
+    {
+      "full_address": "9 BUCKINGHAM AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2395000,
+      "sale_date": "20 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "631466"
+    },
+    {
+      "full_address": "8 WILLOWTREE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2380000,
+      "sale_date": "27 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "676495"
+    },
+    {
+      "full_address": "10A FRITH AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2380000,
+      "sale_date": "16 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "4019922"
+    },
+    {
+      "full_address": "16B OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2380000,
+      "sale_date": "1 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3352698"
+    },
+    {
+      "full_address": "5 TRACEY CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2366888,
+      "sale_date": "19 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "673549"
+    },
+    {
+      "full_address": "63 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2360000,
+      "sale_date": "25 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "667134"
+    },
+    {
+      "full_address": "4 ARIANNA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2360000,
+      "sale_date": "22 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3912562"
+    },
+    {
+      "full_address": "12 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2350000,
+      "sale_date": "27 August 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "667179"
+    },
+    {
+      "full_address": "45 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2350000,
+      "sale_date": "12 February 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "647923"
+    },
+    {
+      "full_address": "5A FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2335000,
+      "sale_date": "24 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4326201"
+    },
+    {
+      "full_address": "17A NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2330000,
+      "sale_date": "20 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4235602"
+    },
+    {
+      "full_address": "19A FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2325000,
+      "sale_date": "27 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "643100"
+    },
+    {
+      "full_address": "92 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2320000,
+      "sale_date": "19 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "637805"
+    },
+    {
+      "full_address": "26 OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2310000,
+      "sale_date": "22 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "4245599"
+    },
+    {
+      "full_address": "16 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2310000,
+      "sale_date": "20 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3412203"
+    },
+    {
+      "full_address": "37A HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2310000,
+      "sale_date": "12 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "2919886"
+    },
+    {
+      "full_address": "11C MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2305000,
+      "sale_date": "7 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "3748324"
+    },
+    {
+      "full_address": "42 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2300000,
+      "sale_date": "29 April 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "647989"
+    },
+    {
+      "full_address": "16C HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2300000,
+      "sale_date": "27 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3412205"
+    },
+    {
+      "full_address": "59 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2300000,
+      "sale_date": "26 May 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4534290"
+    },
+    {
+      "full_address": "5A KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2300000,
+      "sale_date": "25 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "651595"
+    },
+    {
+      "full_address": "1 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2300000,
+      "sale_date": "23 May 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "636754"
+    },
+    {
+      "full_address": "12 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2300000,
+      "sale_date": "16 February 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "645665"
+    },
+    {
+      "full_address": "44 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2300000,
+      "sale_date": "13 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "632639"
+    },
+    {
+      "full_address": "18 BUCKINGHAM AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2295000,
+      "sale_date": "16 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "631470"
+    },
+    {
+      "full_address": "31 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2280000,
+      "sale_date": "3 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "657356"
+    },
+    {
+      "full_address": "43 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2261500,
+      "sale_date": "22 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "632666"
+    },
+    {
+      "full_address": "17C REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2261000,
+      "sale_date": "17 February 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3393202"
+    },
+    {
+      "full_address": "23 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2250000,
+      "sale_date": "22 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "651604"
+    },
+    {
+      "full_address": "3A STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2250000,
+      "sale_date": "10 February 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "671391"
+    },
+    {
+      "full_address": "21A REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2240000,
+      "sale_date": "17 May 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3912553"
+    },
+    {
+      "full_address": "23 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2225000,
+      "sale_date": "25 October 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3912554"
+    },
+    {
+      "full_address": "34 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2220000,
+      "sale_date": "23 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "632892"
+    },
+    {
+      "full_address": "9 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2200000,
+      "sale_date": "29 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "667170"
+    },
+    {
+      "full_address": "24 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2200000,
+      "sale_date": "23 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "658584"
+    },
+    {
+      "full_address": "25 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2200000,
+      "sale_date": "22 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "646311"
+    },
+    {
+      "full_address": "61 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2200000,
+      "sale_date": "11 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4534289"
+    },
+    {
+      "full_address": "34A HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2188000,
+      "sale_date": "14 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "4212431"
+    },
+    {
+      "full_address": "56 OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2187000,
+      "sale_date": "26 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "661290"
+    },
+    {
+      "full_address": "34A OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2180000,
+      "sale_date": "6 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "661302"
+    },
+    {
+      "full_address": "7 CURRAWONG AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2180000,
+      "sale_date": "26 November 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "636659"
+    },
+    {
+      "full_address": "7 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2180000,
+      "sale_date": "14 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3972541"
+    },
+    {
+      "full_address": "7A FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2180000,
+      "sale_date": "10 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "643108"
+    },
+    {
+      "full_address": "7B RIVERTOP CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2170000,
+      "sale_date": "24 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3219873"
+    },
+    {
+      "full_address": "14 NORMANHURST RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2150000,
+      "sale_date": "9 July 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "659644"
+    },
+    {
+      "full_address": "20 FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2150000,
+      "sale_date": "8 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "643118"
+    },
+    {
+      "full_address": "30 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2150000,
+      "sale_date": "7 February 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4078039"
+    },
+    {
+      "full_address": "2B WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2150000,
+      "sale_date": "27 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "2853764"
+    },
+    {
+      "full_address": "6 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2150000,
+      "sale_date": "22 October 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "647953"
+    },
+    {
+      "full_address": "15 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2150000,
+      "sale_date": "21 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "632871"
+    },
+    {
+      "full_address": "9 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2150000,
+      "sale_date": "13 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "657368"
+    },
+    {
+      "full_address": "1 BUCKINGHAM AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2140000,
+      "sale_date": "16 May 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "631462"
+    },
+    {
+      "full_address": "12 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2135000,
+      "sale_date": "21 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "636760"
+    },
+    {
+      "full_address": "78 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2130000,
+      "sale_date": "4 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "664402"
+    },
+    {
+      "full_address": "31 EATON AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2130000,
+      "sale_date": "2 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "639744"
+    },
+    {
+      "full_address": "11 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2122000,
+      "sale_date": "30 October 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3972573"
+    },
+    {
+      "full_address": "4A CALGA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2120000,
+      "sale_date": "7 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "2899016"
+    },
+    {
+      "full_address": "5A OAK ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2100000,
+      "sale_date": "8 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "660186"
+    },
+    {
+      "full_address": "16 BUCKINGHAM AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2100000,
+      "sale_date": "5 March 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "631471"
+    },
+    {
+      "full_address": "18A HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2100000,
+      "sale_date": "28 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "647966"
+    },
+    {
+      "full_address": "56 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2100000,
+      "sale_date": "17 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4562808"
+    },
+    {
+      "full_address": "26C OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2100000,
+      "sale_date": "13 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "4245600"
+    },
+    {
+      "full_address": "7 FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2100000,
+      "sale_date": "12 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "643107"
+    },
+    {
+      "full_address": "22A HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2100000,
+      "sale_date": "1 February 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "647969"
+    },
+    {
+      "full_address": "3 CEDAR ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2090000,
+      "sale_date": "4 January 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "633931"
+    },
+    {
+      "full_address": "38 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2086000,
+      "sale_date": "11 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "636773"
+    },
+    {
+      "full_address": "41 EATON AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2080000,
+      "sale_date": "14 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "639749"
+    },
+    {
+      "full_address": "42 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2070000,
+      "sale_date": "24 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "658576"
+    },
+    {
+      "full_address": "37 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2068000,
+      "sale_date": "7 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "658571"
+    },
+    {
+      "full_address": "17A CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2066000,
+      "sale_date": "17 March 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "632679"
+    },
+    {
+      "full_address": "59 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2060500,
+      "sale_date": "25 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "647917"
+    },
+    {
+      "full_address": "39 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2060000,
+      "sale_date": "23 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "641927"
+    },
+    {
+      "full_address": "1 CEDAR ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2059500,
+      "sale_date": "4 February 2026",
+      "property_type_hint": "house",
+      "raw_source_id": "633932"
+    },
+    {
+      "full_address": "19 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2050000,
+      "sale_date": "16 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "4159615"
+    },
+    {
+      "full_address": "1C NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2046000,
+      "sale_date": "9 February 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3975572"
+    },
+    {
+      "full_address": "30 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2042000,
+      "sale_date": "29 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "632894"
+    },
+    {
+      "full_address": "61 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2041000,
+      "sale_date": "12 April 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "657339"
+    },
+    {
+      "full_address": "71A MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2040000,
+      "sale_date": "8 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "657331"
+    },
+    {
+      "full_address": "68 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2040000,
+      "sale_date": "26 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "667209"
+    },
+    {
+      "full_address": "6 BLUEGUM ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2040000,
+      "sale_date": "23 August 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "629660"
+    },
+    {
+      "full_address": "32 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2025000,
+      "sale_date": "21 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "654890"
+    },
+    {
+      "full_address": "2 ARIANNA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2025000,
+      "sale_date": "14 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4212432"
+    },
+    {
+      "full_address": "46 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2025000,
+      "sale_date": "1 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "2918933"
+    },
+    {
+      "full_address": "65A MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2020000,
+      "sale_date": "7 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "657335"
+    },
+    {
+      "full_address": "31 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2020000,
+      "sale_date": "10 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "651608"
+    },
+    {
+      "full_address": "5 WILLOWTREE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2015000,
+      "sale_date": "19 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "676503"
+    },
+    {
+      "full_address": "10 ARIANNA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2010000,
+      "sale_date": "29 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3912565"
+    },
+    {
+      "full_address": "34A CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2005000,
+      "sale_date": "4 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "632633"
+    },
+    {
+      "full_address": "42A CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2005000,
+      "sale_date": "18 February 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "4276574"
+    },
+    {
+      "full_address": "5 BANKSIA ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2000000,
+      "sale_date": "9 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "626890"
+    },
+    {
+      "full_address": "25 CURRAWONG AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2000000,
+      "sale_date": "29 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "636671"
+    },
+    {
+      "full_address": "12B OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2000000,
+      "sale_date": "28 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3978454"
+    },
+    {
+      "full_address": "31 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2000000,
+      "sale_date": "25 February 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4078038"
+    },
+    {
+      "full_address": "33B HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2000000,
+      "sale_date": "17 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "647930"
+    },
+    {
+      "full_address": "5 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 2000000,
+      "sale_date": "1 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "636752"
+    },
+    {
+      "full_address": "14 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1980000,
+      "sale_date": "23 October 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "647959"
+    },
+    {
+      "full_address": "69 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1960000,
+      "sale_date": "6 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "657333"
+    },
+    {
+      "full_address": "14A OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1960000,
+      "sale_date": "17 May 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3978456"
+    },
+    {
+      "full_address": "33 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1956000,
+      "sale_date": "16 June 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "651609"
+    },
+    {
+      "full_address": "23 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1955000,
+      "sale_date": "8 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3972203"
+    },
+    {
+      "full_address": "76A DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1950000,
+      "sale_date": "30 January 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "637775"
+    },
+    {
+      "full_address": "7 TWICKENHAM CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1950000,
+      "sale_date": "30 April 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "673976"
+    },
+    {
+      "full_address": "7A RIVERTOP CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1950000,
+      "sale_date": "25 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3219872"
+    },
+    {
+      "full_address": "12 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1950000,
+      "sale_date": "23 February 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "632606"
+    },
+    {
+      "full_address": "24A CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1940000,
+      "sale_date": "24 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3972511"
+    },
+    {
+      "full_address": "2C OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1930000,
+      "sale_date": "22 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3282772"
+    },
+    {
+      "full_address": "14 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1930000,
+      "sale_date": "19 June 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "667180"
+    },
+    {
+      "full_address": "8 RIVERTOP CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1926000,
+      "sale_date": "6 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "667539"
+    },
+    {
+      "full_address": "21 MYRTLE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1925000,
+      "sale_date": "7 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "658124"
+    },
+    {
+      "full_address": "7 PALM GR, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1925000,
+      "sale_date": "27 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "663291"
+    },
+    {
+      "full_address": "37 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1925000,
+      "sale_date": "26 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3232497"
+    },
+    {
+      "full_address": "6 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1920000,
+      "sale_date": "19 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "645662"
+    },
+    {
+      "full_address": "11 TWICKENHAM CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1920000,
+      "sale_date": "16 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "673978"
+    },
+    {
+      "full_address": "17 PINE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1916000,
+      "sale_date": "25 June 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "665174"
+    },
+    {
+      "full_address": "5 OAK ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1910000,
+      "sale_date": "24 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "660187"
+    },
+    {
+      "full_address": "21 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1910000,
+      "sale_date": "21 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "658558"
+    },
+    {
+      "full_address": "30 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1910000,
+      "sale_date": "13 May 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "637774"
+    },
+    {
+      "full_address": "3 LENNOX ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1900000,
+      "sale_date": "3 July 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "652748"
+    },
+    {
+      "full_address": "2 HUDDART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1900000,
+      "sale_date": "29 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4569767"
+    },
+    {
+      "full_address": "58 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1900000,
+      "sale_date": "21 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4533695"
+    },
+    {
+      "full_address": "50A HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1900000,
+      "sale_date": "19 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "4053494"
+    },
+    {
+      "full_address": "12 PINE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1900000,
+      "sale_date": "18 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "665180"
+    },
+    {
+      "full_address": "14 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1883000,
+      "sale_date": "10 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "4366695"
+    },
+    {
+      "full_address": "14 BUCKINGHAM AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1880000,
+      "sale_date": "24 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "631472"
+    },
+    {
+      "full_address": "1 PINE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1880000,
+      "sale_date": "17 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "665167"
+    },
+    {
+      "full_address": "7 CEDAR ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1878000,
+      "sale_date": "31 May 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "633929"
+    },
+    {
+      "full_address": "6 GREENHILL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1875000,
+      "sale_date": "27 May 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "644925"
+    },
+    {
+      "full_address": "36 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1875000,
+      "sale_date": "18 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "632891"
+    },
+    {
+      "full_address": "23A FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1870000,
+      "sale_date": "8 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "643097"
+    },
+    {
+      "full_address": "8A CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1870000,
+      "sale_date": "3 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "632602"
+    },
+    {
+      "full_address": "14 FRITH AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1865000,
+      "sale_date": "8 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "643258"
+    },
+    {
+      "full_address": "48A HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1862500,
+      "sale_date": "31 May 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "647993"
+    },
+    {
+      "full_address": "27 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1860000,
+      "sale_date": "18 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3972207"
+    },
+    {
+      "full_address": "29 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1850000,
+      "sale_date": "8 March 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "658565"
+    },
+    {
+      "full_address": "24 MYRTLE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1850000,
+      "sale_date": "21 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "658105"
+    },
+    {
+      "full_address": "128 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1850000,
+      "sale_date": "17 May 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "664433"
+    },
+    {
+      "full_address": "44 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1850000,
+      "sale_date": "12 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4508155"
+    },
+    {
+      "full_address": "68 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1845000,
+      "sale_date": "18 September 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "654869"
+    },
+    {
+      "full_address": "79A PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1840000,
+      "sale_date": "5 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "664981"
+    },
+    {
+      "full_address": "10 CURRAWONG AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1840000,
+      "sale_date": "2 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "636653"
+    },
+    {
+      "full_address": "21 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1838000,
+      "sale_date": "30 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "2949484"
+    },
+    {
+      "full_address": "119 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1835000,
+      "sale_date": "18 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "664959"
+    },
+    {
+      "full_address": "16 GREENHILL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1830000,
+      "sale_date": "3 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "644930"
+    },
+    {
+      "full_address": "21 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1830000,
+      "sale_date": "12 April 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "632874"
+    },
+    {
+      "full_address": "74 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1827000,
+      "sale_date": "15 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "648009"
+    },
+    {
+      "full_address": "4 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1825000,
+      "sale_date": "18 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "639067"
+    },
+    {
+      "full_address": "47 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1820000,
+      "sale_date": "16 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "645678"
+    },
+    {
+      "full_address": "2 CAPELLA PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1816000,
+      "sale_date": "25 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "632816"
+    },
+    {
+      "full_address": "72 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1810000,
+      "sale_date": "29 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "654867"
+    },
+    {
+      "full_address": "4 TWICKENHAM CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1808000,
+      "sale_date": "18 September 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "673987"
+    },
+    {
+      "full_address": "10 LENNOX ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1807500,
+      "sale_date": "18 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "652759"
+    },
+    {
+      "full_address": "40 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1805000,
+      "sale_date": "2 April 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "654886"
+    },
+    {
+      "full_address": "3 WILLOWTREE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1805000,
+      "sale_date": "12 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "676502"
+    },
+    {
+      "full_address": "33 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1800000,
+      "sale_date": "7 November 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "2867702"
+    },
+    {
+      "full_address": "12 CURRAWONG AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1800000,
+      "sale_date": "5 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "636652"
+    },
+    {
+      "full_address": "26 EATON AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1800000,
+      "sale_date": "28 May 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "639762"
+    },
+    {
+      "full_address": "36 MILSON PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1800000,
+      "sale_date": "18 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "656809"
+    },
+    {
+      "full_address": "62A MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1800000,
+      "sale_date": "11 March 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "654872"
+    },
+    {
+      "full_address": "4 PALM GR, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1795000,
+      "sale_date": "13 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "663288"
+    },
+    {
+      "full_address": "76 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1790000,
+      "sale_date": "10 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "667214"
+    },
+    {
+      "full_address": "6 RIVERTOP CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1785000,
+      "sale_date": "7 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "667537"
+    },
+    {
+      "full_address": "25A FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1781500,
+      "sale_date": "10 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "643095"
+    },
+    {
+      "full_address": "53 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1780000,
+      "sale_date": "30 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4393584"
+    },
+    {
+      "full_address": "16 OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1780000,
+      "sale_date": "24 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3972596"
+    },
+    {
+      "full_address": "72 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1775000,
+      "sale_date": "17 September 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "667211"
+    },
+    {
+      "full_address": "26 MYRTLE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1775000,
+      "sale_date": "14 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "658104"
+    },
+    {
+      "full_address": "52 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1770000,
+      "sale_date": "3 June 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "2853763"
+    },
+    {
+      "full_address": "35 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1770000,
+      "sale_date": "18 February 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "657353"
+    },
+    {
+      "full_address": "2 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1750000,
+      "sale_date": "4 October 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "676906"
+    },
+    {
+      "full_address": "39 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1750000,
+      "sale_date": "30 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "651612"
+    },
+    {
+      "full_address": "16 BRYAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1750000,
+      "sale_date": "16 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "631450"
+    },
+    {
+      "full_address": "78 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1740000,
+      "sale_date": "29 January 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "667215"
+    },
+    {
+      "full_address": "10 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1740000,
+      "sale_date": "24 January 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "632604"
+    },
+    {
+      "full_address": "100 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1730000,
+      "sale_date": "17 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "637809"
+    },
+    {
+      "full_address": "60 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1729000,
+      "sale_date": "22 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "648002"
+    },
+    {
+      "full_address": "66 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1721000,
+      "sale_date": "13 March 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "654870"
+    },
+    {
+      "full_address": "12 HUDDART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1720000,
+      "sale_date": "3 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "637769"
+    },
+    {
+      "full_address": "56 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1720000,
+      "sale_date": "24 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3989911"
+    },
+    {
+      "full_address": "27 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1712000,
+      "sale_date": "23 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "651606"
+    },
+    {
+      "full_address": "16 AVERY ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1710000,
+      "sale_date": "23 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "626304"
+    },
+    {
+      "full_address": "2 LENNOX ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1710000,
+      "sale_date": "15 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "652763"
+    },
+    {
+      "full_address": "11B STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1705000,
+      "sale_date": "18 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "671383"
+    },
+    {
+      "full_address": "23 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1700000,
+      "sale_date": "11 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "639083"
+    },
+    {
+      "full_address": "15 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1700000,
+      "sale_date": "1 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "676878"
+    },
+    {
+      "full_address": "50B HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1688000,
+      "sale_date": "4 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "4053495"
+    },
+    {
+      "full_address": "57 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1682500,
+      "sale_date": "18 May 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4534291"
+    },
+    {
+      "full_address": "1 THE GROVE WAY, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1682000,
+      "sale_date": "31 October 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "672829"
+    },
+    {
+      "full_address": "12 LENNOX ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1680000,
+      "sale_date": "20 January 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "652758"
+    },
+    {
+      "full_address": "8 MILSON PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1680000,
+      "sale_date": "1 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "656823"
+    },
+    {
+      "full_address": "12 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1675000,
+      "sale_date": "5 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3630733"
+    },
+    {
+      "full_address": "2 GREENHILL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1675000,
+      "sale_date": "19 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "644923"
+    },
+    {
+      "full_address": "18 MYRTLE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1669000,
+      "sale_date": "8 February 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "658108"
+    },
+    {
+      "full_address": "55 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1660000,
+      "sale_date": "20 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4534292"
+    },
+    {
+      "full_address": "21 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1660000,
+      "sale_date": "13 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "651603"
+    },
+    {
+      "full_address": "36 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1657000,
+      "sale_date": "11 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "636772"
+    },
+    {
+      "full_address": "6B CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1650000,
+      "sale_date": "24 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "632600"
+    },
+    {
+      "full_address": "66 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1640000,
+      "sale_date": "8 April 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "648005"
+    },
+    {
+      "full_address": "55 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1620000,
+      "sale_date": "5 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "3495404"
+    },
+    {
+      "full_address": "33A CURRAWONG AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1610000,
+      "sale_date": "5 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "636676"
+    },
+    {
+      "full_address": "38 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1610000,
+      "sale_date": "4 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "632635"
+    },
+    {
+      "full_address": "20 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1610000,
+      "sale_date": "28 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "645669"
+    },
+    {
+      "full_address": "18 OAK ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1605000,
+      "sale_date": "7 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "660198"
+    },
+    {
+      "full_address": "3 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1605000,
+      "sale_date": "19 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "671392"
+    },
+    {
+      "full_address": "4A BLUEGUM ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1602000,
+      "sale_date": "18 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4500054"
+    },
+    {
+      "full_address": "9 PINE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1601000,
+      "sale_date": "18 February 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "665171"
+    },
+    {
+      "full_address": "18 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1600000,
+      "sale_date": "4 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3972571"
+    },
+    {
+      "full_address": "9 CALGA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1600000,
+      "sale_date": "4 July 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "4293380"
+    },
+    {
+      "full_address": "4 PINE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1600000,
+      "sale_date": "28 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "665183"
+    },
+    {
+      "full_address": "10 OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1600000,
+      "sale_date": "23 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3978451"
+    },
+    {
+      "full_address": "6 KATRINA CT, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1600000,
+      "sale_date": "1 February 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3912894"
+    },
+    {
+      "full_address": "17 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1590000,
+      "sale_date": "31 January 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3972537"
+    },
+    {
+      "full_address": "29 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1590000,
+      "sale_date": "21 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3972530"
+    },
+    {
+      "full_address": "57 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1580000,
+      "sale_date": "30 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "632653"
+    },
+    {
+      "full_address": "21 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1575000,
+      "sale_date": "29 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "647935"
+    },
+    {
+      "full_address": "27A FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1575000,
+      "sale_date": "16 January 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "2922121"
+    },
+    {
+      "full_address": "10 CEDAR ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1560000,
+      "sale_date": "17 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "633922"
+    },
+    {
+      "full_address": "9 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1555000,
+      "sale_date": "25 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "632869"
+    },
+    {
+      "full_address": "29 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1555000,
+      "sale_date": "10 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "651607"
+    },
+    {
+      "full_address": "33 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1550000,
+      "sale_date": "5 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3898175"
+    },
+    {
+      "full_address": "7 THE GROVE WAY, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1550000,
+      "sale_date": "20 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "672835"
+    },
+    {
+      "full_address": "1 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1550000,
+      "sale_date": "12 April 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3975571"
+    },
+    {
+      "full_address": "24 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1530000,
+      "sale_date": "22 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3972510"
+    },
+    {
+      "full_address": "12 BRYAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1530000,
+      "sale_date": "16 May 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "631448"
+    },
+    {
+      "full_address": "10 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1530000,
+      "sale_date": "11 February 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "671341"
+    },
+    {
+      "full_address": "47D DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1527000,
+      "sale_date": "13 December 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "637839"
+    },
+    {
+      "full_address": "6 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1525000,
+      "sale_date": "9 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4232626"
+    },
+    {
+      "full_address": "26 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1525000,
+      "sale_date": "10 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "639078"
+    },
+    {
+      "full_address": "43 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1521000,
+      "sale_date": "15 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "665003"
+    },
+    {
+      "full_address": "19 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1520000,
+      "sale_date": "25 November 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "2889020"
+    },
+    {
+      "full_address": "6A HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1520000,
+      "sale_date": "12 November 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3152752"
+    },
+    {
+      "full_address": "104 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1510678,
+      "sale_date": "17 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "664418"
+    },
+    {
+      "full_address": "103 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1510000,
+      "sale_date": "5 April 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3282770"
+    },
+    {
+      "full_address": "17 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1510000,
+      "sale_date": "24 March 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "641937"
+    },
+    {
+      "full_address": "21 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1510000,
+      "sale_date": "24 April 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "3972201"
+    },
+    {
+      "full_address": "32 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1510000,
+      "sale_date": "19 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "641960"
+    },
+    {
+      "full_address": "29A REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1500000,
+      "sale_date": "5 May 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3912557"
+    },
+    {
+      "full_address": "57B CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1500000,
+      "sale_date": "5 May 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "632655"
+    },
+    {
+      "full_address": "18 AVERY ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1500000,
+      "sale_date": "25 April 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "626305"
+    },
+    {
+      "full_address": "15 THE GROVE WAY, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1500000,
+      "sale_date": "13 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "672843"
+    },
+    {
+      "full_address": "25 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1500000,
+      "sale_date": "12 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "632876"
+    },
+    {
+      "full_address": "39 CURRAWONG AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1500000,
+      "sale_date": "10 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3495407"
+    },
+    {
+      "full_address": "7 NICHOLAS CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1495000,
+      "sale_date": "30 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "659168"
+    },
+    {
+      "full_address": "29 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1490000,
+      "sale_date": "26 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "646314"
+    },
+    {
+      "full_address": "48C HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1490000,
+      "sale_date": "20 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "647994"
+    },
+    {
+      "full_address": "3 GREENHILL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1485000,
+      "sale_date": "17 July 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3897904"
+    },
+    {
+      "full_address": "28 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1480000,
+      "sale_date": "7 December 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "3978423"
+    },
+    {
+      "full_address": "44A MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1480000,
+      "sale_date": "25 January 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4508156"
+    },
+    {
+      "full_address": "11 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1478500,
+      "sale_date": "23 December 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "637945"
+    },
+    {
+      "full_address": "36A OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1450000,
+      "sale_date": "8 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "661300"
+    },
+    {
+      "full_address": "20 CURRAWONG AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1450000,
+      "sale_date": "7 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "636647"
+    },
+    {
+      "full_address": "17 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1450000,
+      "sale_date": "23 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3472628"
+    },
+    {
+      "full_address": "54 MILSON PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1450000,
+      "sale_date": "22 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "656802"
+    },
+    {
+      "full_address": "8 HUDDART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1450000,
+      "sale_date": "18 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "648189"
+    },
+    {
+      "full_address": "47 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1445000,
+      "sale_date": "10 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "646324"
+    },
+    {
+      "full_address": "33 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1435000,
+      "sale_date": "21 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3972532"
+    },
+    {
+      "full_address": "10A MILSON PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1420000,
+      "sale_date": "27 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "656821"
+    },
+    {
+      "full_address": "45 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1415000,
+      "sale_date": "18 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "667143"
+    },
+    {
+      "full_address": "29 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1410000,
+      "sale_date": "30 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "665010"
+    },
+    {
+      "full_address": "22 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1410000,
+      "sale_date": "24 August 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "3961845"
+    },
+    {
+      "full_address": "63 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1410000,
+      "sale_date": "15 July 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "664993"
+    },
+    {
+      "full_address": "16E HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1400000,
+      "sale_date": "2 August 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3412211"
+    },
+    {
+      "full_address": "53 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1400000,
+      "sale_date": "17 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "646327"
+    },
+    {
+      "full_address": "99 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1390000,
+      "sale_date": "27 March 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "664972"
+    },
+    {
+      "full_address": "7 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1385000,
+      "sale_date": "16 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "676875"
+    },
+    {
+      "full_address": "2 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1380000,
+      "sale_date": "24 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "632907"
+    },
+    {
+      "full_address": "60 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1375000,
+      "sale_date": "3 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4533696"
+    },
+    {
+      "full_address": "14 OAK ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1375000,
+      "sale_date": "15 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "660196"
+    },
+    {
+      "full_address": "46 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1371000,
+      "sale_date": "13 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "667198"
+    },
+    {
+      "full_address": "18 OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1370000,
+      "sale_date": "11 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "661313"
+    },
+    {
+      "full_address": "17 FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1350000,
+      "sale_date": "4 February 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "2861786"
+    },
+    {
+      "full_address": "4 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1350000,
+      "sale_date": "30 May 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "657325"
+    },
+    {
+      "full_address": "28 BEGONIA RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1350000,
+      "sale_date": "2 December 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "627909"
+    },
+    {
+      "full_address": "27 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1350000,
+      "sale_date": "11 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "658564"
+    },
+    {
+      "full_address": "105 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1345000,
+      "sale_date": "7 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "3975573"
+    },
+    {
+      "full_address": "26 CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1345000,
+      "sale_date": "31 July 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "3972512"
+    },
+    {
+      "full_address": "57 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1344000,
+      "sale_date": "30 October 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "637819"
+    },
+    {
+      "full_address": "10 HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1343000,
+      "sale_date": "3 August 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "646337"
+    },
+    {
+      "full_address": "96 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1330000,
+      "sale_date": "21 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "664414"
+    },
+    {
+      "full_address": "31 FERNDALE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1330000,
+      "sale_date": "10 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "641930"
+    },
+    {
+      "full_address": "1 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1325000,
+      "sale_date": "25 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "632865"
+    },
+    {
+      "full_address": "48B HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1325000,
+      "sale_date": "24 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "647995"
+    },
+    {
+      "full_address": "2 PINE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1320000,
+      "sale_date": "17 July 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "665184"
+    },
+    {
+      "full_address": "5 THE GROVE WAY, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1315000,
+      "sale_date": "12 November 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "672833"
+    },
+    {
+      "full_address": "11 PINE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1310000,
+      "sale_date": "17 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "665172"
+    },
+    {
+      "full_address": "1 WOODBINE AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1305000,
+      "sale_date": "20 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "676872"
+    },
+    {
+      "full_address": "37 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1300000,
+      "sale_date": "2 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "665006"
+    },
+    {
+      "full_address": "40 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1300000,
+      "sale_date": "2 April 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "658577"
+    },
+    {
+      "full_address": "2 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1297000,
+      "sale_date": "14 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "636755"
+    },
+    {
+      "full_address": "10 AVERY ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1290000,
+      "sale_date": "20 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "626301"
+    },
+    {
+      "full_address": "25 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1277000,
+      "sale_date": "7 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "639082"
+    },
+    {
+      "full_address": "49C PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1275000,
+      "sale_date": "18 July 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "6025866"
+    },
+    {
+      "full_address": "6 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1260000,
+      "sale_date": "6 December 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "658592"
+    },
+    {
+      "full_address": "38 OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1260000,
+      "sale_date": "4 December 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "661299"
+    },
+    {
+      "full_address": "3 OAK ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1260000,
+      "sale_date": "15 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "660188"
+    },
+    {
+      "full_address": "32 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1260000,
+      "sale_date": "13 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "658580"
+    },
+    {
+      "full_address": "23 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1255000,
+      "sale_date": "16 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "632875"
+    },
+    {
+      "full_address": "49D PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1250000,
+      "sale_date": "27 August 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "6025864"
+    },
+    {
+      "full_address": "15 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1250000,
+      "sale_date": "26 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "636748"
+    },
+    {
+      "full_address": "3 PALM GR, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1250000,
+      "sale_date": "19 May 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "663287"
+    },
+    {
+      "full_address": "2 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1250000,
+      "sale_date": "18 May 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "667174"
+    },
+    {
+      "full_address": "28A OSBORN RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1225000,
+      "sale_date": "4 January 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "661306"
+    },
+    {
+      "full_address": "33 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1225000,
+      "sale_date": "14 May 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "665008"
+    },
+    {
+      "full_address": "4 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1206000,
+      "sale_date": "8 June 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "647952"
+    },
+    {
+      "full_address": "2B PALM GR, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1200000,
+      "sale_date": "4 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "663285"
+    },
+    {
+      "full_address": "18 CARCOOLA CRES, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1180000,
+      "sale_date": "20 November 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "632900"
+    },
+    {
+      "full_address": "49A PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1180000,
+      "sale_date": "17 April 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "6025862"
+    },
+    {
+      "full_address": "19 FRASER RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1180000,
+      "sale_date": "14 May 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "643099"
+    },
+    {
+      "full_address": "120 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1170000,
+      "sale_date": "6 March 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "664427"
+    },
+    {
+      "full_address": "10 FRITH AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1162000,
+      "sale_date": "21 February 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "4019921"
+    },
+    {
+      "full_address": "53 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1158000,
+      "sale_date": "30 October 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "664997"
+    },
+    {
+      "full_address": "24 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1150000,
+      "sale_date": "12 May 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "639077"
+    },
+    {
+      "full_address": "19A MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1135000,
+      "sale_date": "9 March 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "3978400"
+    },
+    {
+      "full_address": "13 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1132000,
+      "sale_date": "16 March 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "667167"
+    },
+    {
+      "full_address": "11A BUCKINGHAM AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1065000,
+      "sale_date": "23 January 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "631468"
+    },
+    {
+      "full_address": "2 NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1049000,
+      "sale_date": "3 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "658594"
+    },
+    {
+      "full_address": "19 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1022000,
+      "sale_date": "29 June 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "639085"
+    },
+    {
+      "full_address": "10 REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1016000,
+      "sale_date": "20 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "667178"
+    },
+    {
+      "full_address": "31A REDGRAVE RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1007000,
+      "sale_date": "4 April 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "3912559"
+    },
+    {
+      "full_address": "31 NORMANHURST RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 1000000,
+      "sale_date": "14 February 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "659649"
+    },
+    {
+      "full_address": "11 CYPRESS ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 980000,
+      "sale_date": "22 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "636749"
+    },
+    {
+      "full_address": "6A CAMPBELL AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 975000,
+      "sale_date": "22 May 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "632599"
+    },
+    {
+      "full_address": "62 MOUNT PLEASANT AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 950000,
+      "sale_date": "23 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "4523909"
+    },
+    {
+      "full_address": "2 RIVERTOP CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 948000,
+      "sale_date": "14 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "667529"
+    },
+    {
+      "full_address": "46 DENMAN PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 925000,
+      "sale_date": "11 October 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "637782"
+    },
+    {
+      "full_address": "11 AVERY ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 920000,
+      "sale_date": "20 April 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "626311"
+    },
+    {
+      "full_address": "71 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 906500,
+      "sale_date": "17 August 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "664987"
+    },
+    {
+      "full_address": "14A HARRIS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 900000,
+      "sale_date": "7 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "4366696"
+    },
+    {
+      "full_address": "17B NEPEAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 850000,
+      "sale_date": "6 June 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "4235603"
+    },
+    {
+      "full_address": "20 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 837500,
+      "sale_date": "16 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "651614"
+    },
+    {
+      "full_address": "76 MALSBURY RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 830500,
+      "sale_date": "19 July 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "654865"
+    },
+    {
+      "full_address": "118 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 811500,
+      "sale_date": "25 March 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "664425"
+    },
+    {
+      "full_address": "34 HINEMOA AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 745000,
+      "sale_date": "4 July 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "4212430"
+    },
+    {
+      "full_address": "152 / 24 KNOX PL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 650000,
+      "sale_date": "18 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3737469"
+    },
+    {
+      "full_address": "8 MYRTLE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 640000,
+      "sale_date": "21 April 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "658113"
+    },
+    {
+      "full_address": "28 MILSON PDE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 600000,
+      "sale_date": "25 June 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "656813"
+    },
+    {
+      "full_address": "12 BEGONIA RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 543850,
+      "sale_date": "28 August 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "627917"
+    },
+    {
+      "full_address": "26 FRITH AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 525000,
+      "sale_date": "6 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "643252"
+    },
+    {
+      "full_address": "31 STUART AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 505000,
+      "sale_date": "9 May 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "671370"
+    },
+    {
+      "full_address": "5 BRYAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 500000,
+      "sale_date": "19 August 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "631457"
+    },
+    {
+      "full_address": "16 BEGONIA RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 416667,
+      "sale_date": "4 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "627915"
+    },
+    {
+      "full_address": "6 MYRTLE ST, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 400000,
+      "sale_date": "24 October 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "4257244"
+    },
+    {
+      "full_address": "4 BRYAN AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 363000,
+      "sale_date": "12 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "631443"
+    },
+    {
+      "full_address": "47 PENNANT HILLS RD, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 144000,
+      "sale_date": "9 December 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "665001"
+    },
+    {
+      "full_address": "31 DUNBAR CL, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 97500,
+      "sale_date": "7 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "639079"
+    },
+    {
+      "full_address": "22 HAMMOND AVE, NORMANHURST NSW 2076",
+      "suburb": "NORMANHURST",
+      "postcode": "2076",
+      "sale_price": 25500,
+      "sale_date": "12 December 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "645670"
+    },
+    {
+      "full_address": "1 CLEMENT CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2930000,
+      "sale_date": "5 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "635126"
+    },
+    {
+      "full_address": "7 SELWYN CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2680000,
+      "sale_date": "5 July 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "4281852"
+    },
+    {
+      "full_address": "6 TAYLOR PL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2600000,
+      "sale_date": "9 August 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "672319"
+    },
+    {
+      "full_address": "3 BRIDDON CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2575000,
+      "sale_date": "8 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3234884"
+    },
+    {
+      "full_address": "38B LAURENCE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2565000,
+      "sale_date": "6 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3764006"
+    },
+    {
+      "full_address": "6 WEEMALA RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2537000,
+      "sale_date": "8 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "3896818"
+    },
+    {
+      "full_address": "74 LAURENCE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2500000,
+      "sale_date": "9 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "652391"
+    },
+    {
+      "full_address": "22 ROSEMOUNT AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2500000,
+      "sale_date": "7 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "668279"
+    },
+    {
+      "full_address": "20 GREYCLIFFE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2455000,
+      "sale_date": "6 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "645146"
+    },
+    {
+      "full_address": "10 CHARLOTTE LANE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2450000,
+      "sale_date": "7 February 2026",
+      "property_type_hint": "house",
+      "raw_source_id": "4047598"
+    },
+    {
+      "full_address": "4 SELWYN CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2430000,
+      "sale_date": "8 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "669143"
+    },
+    {
+      "full_address": "38A LAURENCE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2425000,
+      "sale_date": "9 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "3764005"
+    },
+    {
+      "full_address": "44A STEVENS ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2401900,
+      "sale_date": "6 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "671193"
+    },
+    {
+      "full_address": "5 THORN ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2400000,
+      "sale_date": "9 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "673115"
+    },
+    {
+      "full_address": "36 HAMPDEN RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2400000,
+      "sale_date": "7 March 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "645775"
+    },
+    {
+      "full_address": "33 THORN ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2300000,
+      "sale_date": "7 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "673125"
+    },
+    {
+      "full_address": "19 VAUGHAN AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2295000,
+      "sale_date": "5 July 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "674311"
+    },
+    {
+      "full_address": "5 MAPLE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2280000,
+      "sale_date": "9 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "655471"
+    },
+    {
+      "full_address": "5 SHERWOOD CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2230000,
+      "sale_date": "6 February 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3552566"
+    },
+    {
+      "full_address": "25 VAUGHAN AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2225000,
+      "sale_date": "6 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "674314"
+    },
+    {
+      "full_address": "15 CHARLOTTE RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2200000,
+      "sale_date": "9 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "634234"
+    },
+    {
+      "full_address": "24A THORN ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2188000,
+      "sale_date": "7 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "673170"
+    },
+    {
+      "full_address": "17 WEARNE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2150000,
+      "sale_date": "6 July 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "675552"
+    },
+    {
+      "full_address": "18 KILLALOE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2145000,
+      "sale_date": "6 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "651050"
+    },
+    {
+      "full_address": "8 LYNWOOD CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2100000,
+      "sale_date": "7 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "654246"
+    },
+    {
+      "full_address": "35A HAMPDEN RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2100000,
+      "sale_date": "7 June 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "645789"
+    },
+    {
+      "full_address": "20 BELLAMY ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2070000,
+      "sale_date": "9 August 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "628106"
+    },
+    {
+      "full_address": "8A BLACKBUTT AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2060000,
+      "sale_date": "6 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "629321"
+    },
+    {
+      "full_address": "18 WARNE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2010000,
+      "sale_date": "8 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "675157"
+    },
+    {
+      "full_address": "63A STEVENS ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2000000,
+      "sale_date": "9 March 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3379011"
+    },
+    {
+      "full_address": "3 GEORGE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 2000000,
+      "sale_date": "8 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "644107"
+    },
+    {
+      "full_address": "9 BRECKS WAY, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1970001,
+      "sale_date": "6 April 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3258545"
+    },
+    {
+      "full_address": "25 RAMSAY RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1940000,
+      "sale_date": "5 May 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3911124"
+    },
+    {
+      "full_address": "5 NUNDA CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1930000,
+      "sale_date": "9 November 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "660079"
+    },
+    {
+      "full_address": "7 BOUNDARY RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1930000,
+      "sale_date": "7 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "630075"
+    },
+    {
+      "full_address": "10 CLADDEN CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1915000,
+      "sale_date": "9 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "634870"
+    },
+    {
+      "full_address": "6 CLADDEN CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1915000,
+      "sale_date": "6 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "634868"
+    },
+    {
+      "full_address": "45 WESTWOOD ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1900000,
+      "sale_date": "8 April 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "676006"
+    },
+    {
+      "full_address": "81 BLACKBUTT AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1880000,
+      "sale_date": "9 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "629304"
+    },
+    {
+      "full_address": "18 KURRAJONG ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1880000,
+      "sale_date": "8 August 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "651934"
+    },
+    {
+      "full_address": "1C SWAN PL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1851000,
+      "sale_date": "7 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3224534"
+    },
+    {
+      "full_address": "23 WERONA ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1850000,
+      "sale_date": "7 March 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "675763"
+    },
+    {
+      "full_address": "26 BRITANNIA ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1850000,
+      "sale_date": "7 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "631077"
+    },
+    {
+      "full_address": "2 / 43 GEORGE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1800000,
+      "sale_date": "6 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "644133"
+    },
+    {
+      "full_address": "47 LOFTUS RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1785000,
+      "sale_date": "6 July 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "653598"
+    },
+    {
+      "full_address": "33 JACKSON CRES, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1775000,
+      "sale_date": "8 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "649141"
+    },
+    {
+      "full_address": "1A HILLCREST RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1750000,
+      "sale_date": "5 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "647709"
+    },
+    {
+      "full_address": "11 WARNE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1725000,
+      "sale_date": "7 November 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "675175"
+    },
+    {
+      "full_address": "44 LOFTUS RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1710000,
+      "sale_date": "9 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "653580"
+    },
+    {
+      "full_address": "19 WEARNE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1685000,
+      "sale_date": "6 November 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "675551"
+    },
+    {
+      "full_address": "27 HILLCREST RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1680000,
+      "sale_date": "9 August 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3910788"
+    },
+    {
+      "full_address": "6 RAMSAY RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1670000,
+      "sale_date": "7 April 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "666608"
+    },
+    {
+      "full_address": "62 GREENHAVEN DR, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1650000,
+      "sale_date": "6 March 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "644888"
+    },
+    {
+      "full_address": "23 JACKSON CRES, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1600000,
+      "sale_date": "9 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "649146"
+    },
+    {
+      "full_address": "123 WONGALA CRES, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1600000,
+      "sale_date": "9 December 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "676806"
+    },
+    {
+      "full_address": "12 BRIDDON CL, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1600000,
+      "sale_date": "6 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "630576"
+    },
+    {
+      "full_address": "20 BRITANNIA ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1540000,
+      "sale_date": "6 February 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "631068"
+    },
+    {
+      "full_address": "1 BRITANNIA ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1530000,
+      "sale_date": "7 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "631089"
+    },
+    {
+      "full_address": "34 ALBION ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1500000,
+      "sale_date": "6 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "624915"
+    },
+    {
+      "full_address": "18 CAVENDISH ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1465000,
+      "sale_date": "9 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4164620"
+    },
+    {
+      "full_address": "8 CAVENDISH ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1450000,
+      "sale_date": "9 May 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "633847"
+    },
+    {
+      "full_address": "456 PENNANT HILLS RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1400000,
+      "sale_date": "8 May 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "664577"
+    },
+    {
+      "full_address": "11A BEECROFT RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1390000,
+      "sale_date": "7 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "627895"
+    },
+    {
+      "full_address": "22 GREYCLIFFE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1375000,
+      "sale_date": "5 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "645147"
+    },
+    {
+      "full_address": "23 FULBOURNE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1370000,
+      "sale_date": "7 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3924142"
+    },
+    {
+      "full_address": "68 LAURENCE ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1362500,
+      "sale_date": "8 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "652394"
+    },
+    {
+      "full_address": "16 KILLALOE AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1360000,
+      "sale_date": "8 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "651051"
+    },
+    {
+      "full_address": "8 POMONA ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1351000,
+      "sale_date": "8 April 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "3406514"
+    },
+    {
+      "full_address": "10 TREBOR RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1350000,
+      "sale_date": "7 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "673558"
+    },
+    {
+      "full_address": "17C THE CRESCENT, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1320000,
+      "sale_date": "7 February 2026",
+      "property_type_hint": "house",
+      "raw_source_id": "6014941"
+    },
+    {
+      "full_address": "18A CAVENDISH ST, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1300000,
+      "sale_date": "9 December 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4164621"
+    },
+    {
+      "full_address": "24 YARRARA RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1200000,
+      "sale_date": "9 March 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "4120123"
+    },
+    {
+      "full_address": "66 BOUNDARY RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 1100000,
+      "sale_date": "9 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "630102"
+    },
+    {
+      "full_address": "34 BLACKBUTT AVE, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 700000,
+      "sale_date": "8 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "629326"
+    },
+    {
+      "full_address": "108-110 YARRARA RD, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 639900,
+      "sale_date": "9 October 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "677965"
+    },
+    {
+      "full_address": "2 AZALEA GR, PENNANT HILLS NSW 2120",
+      "suburb": "PENNANT HILLS",
+      "postcode": "2120",
+      "sale_price": 407500,
+      "sale_date": "7 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "626370"
+    },
+    {
+      "full_address": "9 CHILVERS RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 77750000,
+      "sale_date": "7 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3082959"
+    },
+    {
+      "full_address": "3-7 HILLMONT AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 12250000,
+      "sale_date": "7 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "4043010"
+    },
+    {
+      "full_address": "6 PIONEER AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 4300000,
+      "sale_date": "9 September 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "665284"
+    },
+    {
+      "full_address": "67 DARTFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 3005000,
+      "sale_date": "9 July 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "637065"
+    },
+    {
+      "full_address": "15 COOLABAH CL, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2950000,
+      "sale_date": "6 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "635717"
+    },
+    {
+      "full_address": "103 DUFFY AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2790000,
+      "sale_date": "9 August 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "638998"
+    },
+    {
+      "full_address": "38 YARALLA CRES, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2365000,
+      "sale_date": "8 July 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "677770"
+    },
+    {
+      "full_address": "69 KOORINGAL AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2205000,
+      "sale_date": "7 October 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "651764"
+    },
+    {
+      "full_address": "4A TRELAWNEY ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2200000,
+      "sale_date": "9 August 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3879771"
+    },
+    {
+      "full_address": "58 KOORINGAL AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2200000,
+      "sale_date": "8 June 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "651814"
+    },
+    {
+      "full_address": "26A LOCKERBIE RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2200000,
+      "sale_date": "8 December 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "653393"
+    },
+    {
+      "full_address": "44 NICHOLSON AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2200000,
+      "sale_date": "7 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "659245"
+    },
+    {
+      "full_address": "27 DARTFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2190000,
+      "sale_date": "6 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "637043"
+    },
+    {
+      "full_address": "47 BERESFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2150000,
+      "sale_date": "7 June 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "628467"
+    },
+    {
+      "full_address": "28 KOORINGAL AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2150000,
+      "sale_date": "6 September 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "651828"
+    },
+    {
+      "full_address": "17 PRITCHARD ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2085000,
+      "sale_date": "7 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3921421"
+    },
+    {
+      "full_address": "6 WANAWONG DR, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2070000,
+      "sale_date": "8 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "674891"
+    },
+    {
+      "full_address": "6 HANDLEY AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2070000,
+      "sale_date": "5 November 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "645918"
+    },
+    {
+      "full_address": "30 ADAMSON AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2065000,
+      "sale_date": "8 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "623989"
+    },
+    {
+      "full_address": "4B HANDLEY AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2050000,
+      "sale_date": "5 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "2907188"
+    },
+    {
+      "full_address": "11 AMBER CL, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2015000,
+      "sale_date": "7 May 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "625298"
+    },
+    {
+      "full_address": "65 NICHOLSON AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2011000,
+      "sale_date": "6 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "659229"
+    },
+    {
+      "full_address": "77 KOORINGAL AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2005000,
+      "sale_date": "9 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "651768"
+    },
+    {
+      "full_address": "32 TILLOCK ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 2000000,
+      "sale_date": "5 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "673267"
+    },
+    {
+      "full_address": "15 DOBSON ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1945000,
+      "sale_date": "8 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "638237"
+    },
+    {
+      "full_address": "59 WAREEMBA AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1925000,
+      "sale_date": "8 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "675113"
+    },
+    {
+      "full_address": "30 JANET AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1890000,
+      "sale_date": "7 December 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "649339"
+    },
+    {
+      "full_address": "26 WAREEMBA AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1885000,
+      "sale_date": "7 December 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "675074"
+    },
+    {
+      "full_address": "18 COOLABAH CL, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1880000,
+      "sale_date": "6 May 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "635714"
+    },
+    {
+      "full_address": "24 GILGANDRA AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1870000,
+      "sale_date": "6 May 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "644176"
+    },
+    {
+      "full_address": "23 YARALLA CRES, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1865000,
+      "sale_date": "8 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "677799"
+    },
+    {
+      "full_address": "18 ADAMSON AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1860000,
+      "sale_date": "9 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "623983"
+    },
+    {
+      "full_address": "59 BERESFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1840000,
+      "sale_date": "8 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "628461"
+    },
+    {
+      "full_address": "14 LAROOL CRES, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1835000,
+      "sale_date": "6 November 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "652329"
+    },
+    {
+      "full_address": "28 BUNGOWEN AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1824000,
+      "sale_date": "7 October 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "631603"
+    },
+    {
+      "full_address": "55 WAREEMBA AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1810000,
+      "sale_date": "6 August 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "675111"
+    },
+    {
+      "full_address": "43 THE COMENARRA PARKWAY, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1786000,
+      "sale_date": "7 May 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "672614"
+    },
+    {
+      "full_address": "79 KOORINGAL AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1763000,
+      "sale_date": "6 August 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "651769"
+    },
+    {
+      "full_address": "35 DARTFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1760000,
+      "sale_date": "9 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "637047"
+    },
+    {
+      "full_address": "7 ALMA CT, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1760000,
+      "sale_date": "8 August 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "3417952"
+    },
+    {
+      "full_address": "10A SEFTON RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1750000,
+      "sale_date": "7 September 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3792905"
+    },
+    {
+      "full_address": "181A PENNANT HILLS RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1750000,
+      "sale_date": "6 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "664928"
+    },
+    {
+      "full_address": "39 JANET AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1740000,
+      "sale_date": "9 July 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "649331"
+    },
+    {
+      "full_address": "24 TILLOCK ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1737500,
+      "sale_date": "8 December 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "673272"
+    },
+    {
+      "full_address": "23 TRELAWNEY ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1733000,
+      "sale_date": "6 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "3880318"
+    },
+    {
+      "full_address": "41 ADAMSON AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1731000,
+      "sale_date": "7 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "623999"
+    },
+    {
+      "full_address": "12 VALE RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1685000,
+      "sale_date": "6 March 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "674148"
+    },
+    {
+      "full_address": "7 DERRIBONG PL, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1639000,
+      "sale_date": "6 March 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "638073"
+    },
+    {
+      "full_address": "2B EDDY ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1615000,
+      "sale_date": "6 December 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "3912363"
+    },
+    {
+      "full_address": "1A BERESFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1605000,
+      "sale_date": "5 October 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "628490"
+    },
+    {
+      "full_address": "76 NORMAN AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1600000,
+      "sale_date": "8 November 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "659578"
+    },
+    {
+      "full_address": "28A TILLOCK ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1595000,
+      "sale_date": "7 June 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "673269"
+    },
+    {
+      "full_address": "29 THE COMENARRA PARKWAY, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1580000,
+      "sale_date": "7 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "672624"
+    },
+    {
+      "full_address": "4A LOCKERBIE RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1550000,
+      "sale_date": "7 November 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "653380"
+    },
+    {
+      "full_address": "26 EDMUNDSON CL, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1550000,
+      "sale_date": "5 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "640350"
+    },
+    {
+      "full_address": "9 EDMUNDSON CL, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1540000,
+      "sale_date": "9 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "640367"
+    },
+    {
+      "full_address": "73 NORMAN AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1525000,
+      "sale_date": "7 August 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "659613"
+    },
+    {
+      "full_address": "28 NORMAN AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1515000,
+      "sale_date": "6 September 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "659548"
+    },
+    {
+      "full_address": "11 GOODLANDS AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1510000,
+      "sale_date": "6 August 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "644566"
+    },
+    {
+      "full_address": "24 VALE RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1500000,
+      "sale_date": "8 August 2023",
+      "property_type_hint": "house",
+      "raw_source_id": "674153"
+    },
+    {
+      "full_address": "18 LIVINGSTONE WAY, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1490000,
+      "sale_date": "6 April 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "653246"
+    },
+    {
+      "full_address": "25 JAMIESON WAY, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1450000,
+      "sale_date": "7 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "649236"
+    },
+    {
+      "full_address": "83 NORMAN AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1425000,
+      "sale_date": "6 June 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "659609"
+    },
+    {
+      "full_address": "26 NORMAN AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1390000,
+      "sale_date": "7 February 2026",
+      "property_type_hint": "house",
+      "raw_source_id": "659547"
+    },
+    {
+      "full_address": "5 VALE RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1375000,
+      "sale_date": "9 October 2024",
+      "property_type_hint": "house",
+      "raw_source_id": "674167"
+    },
+    {
+      "full_address": "40 STATION ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1355000,
+      "sale_date": "9 October 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "671032"
+    },
+    {
+      "full_address": "102 THE ESPLANADE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1355000,
+      "sale_date": "7 May 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "3911749"
+    },
+    {
+      "full_address": "32 LIVINGSTONE WAY, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1330000,
+      "sale_date": "7 June 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "653253"
+    },
+    {
+      "full_address": "121 KOORINGAL AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1300000,
+      "sale_date": "8 February 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "651790"
+    },
+    {
+      "full_address": "44 THORNLEIGH ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1286000,
+      "sale_date": "6 February 2021",
+      "property_type_hint": "house",
+      "raw_source_id": "673215"
+    },
+    {
+      "full_address": "2 WAREEMBA AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1265000,
+      "sale_date": "7 November 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "675086"
+    },
+    {
+      "full_address": "195 PENNANT HILLS RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1250000,
+      "sale_date": "7 March 2025",
+      "property_type_hint": "house",
+      "raw_source_id": "664920"
+    },
+    {
+      "full_address": "9 ADAMSON AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1236000,
+      "sale_date": "5 September 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "624014"
+    },
+    {
+      "full_address": "62 KOORINGAL AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1217000,
+      "sale_date": "9 November 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "651812"
+    },
+    {
+      "full_address": "2C TILLOCK ST, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1200000,
+      "sale_date": "6 May 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "673283"
+    },
+    {
+      "full_address": "21 VALE RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1180000,
+      "sale_date": "7 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "674160"
+    },
+    {
+      "full_address": "30 LAROOL CRES, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1100000,
+      "sale_date": "6 February 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "652321"
+    },
+    {
+      "full_address": "25 BERESFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1095000,
+      "sale_date": "6 September 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "628478"
+    },
+    {
+      "full_address": "104 DARTFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 1060000,
+      "sale_date": "9 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "4161573"
+    },
+    {
+      "full_address": "6 WAREEMBA AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 970000,
+      "sale_date": "9 January 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "675084"
+    },
+    {
+      "full_address": "1 ROACH AVE, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 911000,
+      "sale_date": "6 April 2019",
+      "property_type_hint": "house",
+      "raw_source_id": "667675"
+    },
+    {
+      "full_address": "50 DARTFORD RD, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 910000,
+      "sale_date": "7 April 2020",
+      "property_type_hint": "house",
+      "raw_source_id": "637181"
+    },
+    {
+      "full_address": "10 PARKLAND PL, THORNLEIGH NSW 2120",
+      "suburb": "THORNLEIGH",
+      "postcode": "2120",
+      "sale_price": 665000,
+      "sale_date": "5 September 2022",
+      "property_type_hint": "house",
+      "raw_source_id": "663605"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "dataset_name": "property_prediction_dataset",
+  "dataset_grain": "one_row_per_property_transaction_or_listing_snapshot",
+  "primary_target": "sale_price",
+  "recommended_training_row_type": "sale_transaction",
+  "feature_groups": {
+    "identity": [
+      "property_id_internal",
+      "source",
+      "source_record_id",
+      "listing_url",
+      "full_address",
+      "suburb",
+      "postcode",
+      "state",
+      "latitude",
+      "longitude"
+    ],
+    "property_core": [
+      "property_type",
+      "bedrooms",
+      "bathrooms",
+      "parking_spaces",
+      "land_size_sqm",
+      "building_size_sqm",
+      "year_built",
+      "lot_number",
+      "plan_number",
+      "zoning"
+    ],
+    "transaction_listing": [
+      "record_type",
+      "listing_type",
+      "sale_price",
+      "list_price",
+      "rent_price_weekly",
+      "sale_date",
+      "listing_date",
+      "days_on_market",
+      "vendor_bid",
+      "auction_result",
+      "agency_name"
+    ],
+    "temporal_derived": [
+      "sale_year",
+      "sale_month",
+      "sale_quarter",
+      "days_since_last_sale",
+      "previous_sale_price",
+      "price_growth_since_last_sale"
+    ],
+    "location_accessibility": [
+      "sa2_name",
+      "distance_to_cbd_km",
+      "distance_to_station_km",
+      "distance_to_metro_km",
+      "distance_to_major_road_km",
+      "distance_to_nearest_school_km",
+      "school_catchment",
+      "lga_name"
+    ],
+    "neighborhood_market": [
+      "suburb_median_house_price",
+      "suburb_median_unit_price",
+      "suburb_median_rent_weekly",
+      "suburb_vacancy_rate",
+      "suburb_sales_count_12m",
+      "suburb_wealth_score",
+      "suburb_median_income",
+      "suburb_price_income_ratio"
+    ],
+    "text_quality": [
+      "listing_title",
+      "listing_description",
+      "renovated_flag",
+      "water_view_flag",
+      "parking_flag",
+      "balcony_flag",
+      "garden_flag",
+      "luxury_flag"
+    ]
+  },
+  "minimum_viable_fields": [
+    "full_address",
+    "suburb",
+    "postcode",
+    "property_type",
+    "bedrooms",
+    "bathrooms",
+    "parking_spaces",
+    "land_size_sqm",
+    "building_size_sqm",
+    "sale_price",
+    "sale_date",
+    "latitude",
+    "longitude",
+    "suburb_median_house_price",
+    "suburb_median_rent_weekly",
+    "suburb_vacancy_rate",
+    "suburb_wealth_score"
+  ],
+  "priority_v1_fields": [
+    "full_address",
+    "suburb",
+    "sale_price",
+    "sale_date",
+    "property_type",
+    "bedrooms",
+    "bathrooms",
+    "parking_spaces",
+    "land_size_sqm",
+    "building_size_sqm"
+  ]
+}
