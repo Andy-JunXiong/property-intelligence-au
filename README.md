@@ -177,6 +177,10 @@ Not yet a strong fit for:
 - Premium AI analysis is only wired to OpenAI today
 - The premium workspace is still evolving toward a stronger memo/report experience
 
+## Future Considerations
+
+While the current focus remains on localized property research and buyer workflows in Sydney, there is potential to explore broader AI-driven economic impacts and automation trends in the future. Understanding these macroeconomic shifts could enrich property market analysis by incorporating economic trend indicators or automation-driven market changes into workflows.
+
 ## Roadmap
 
 See [ROADMAP.md](/c:/Users/maki8/OneDrive/桌面/Find%20a%20job/property-intelligence-au/ROADMAP.md).
