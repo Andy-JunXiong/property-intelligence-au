@@ -123,6 +123,21 @@ Tasks:
 - add same-street / nearby-street comparable views
 - make refresh workflows easier to run
 
+## Backlog: AI 452 Signal Exploration
+
+Status: `backlog`
+
+Goals:
+
+- explore integration of macroeconomic AI insights and automation trends into property intelligence
+- research potential to incorporate economic trend indicators and automation-driven market changes into workflows
+
+Tasks:
+
+- monitor developments in AI-driven economic shifts relevant to property markets
+- evaluate data sources for economic trend indicators
+- prototype integration concepts for automation impact signals in buyer workflows
+
 ## Non-Goals For Now
 
 These are intentionally not near-term priorities:
